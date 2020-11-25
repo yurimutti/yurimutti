@@ -1,7 +1,7 @@
 ### Olá! 😁
 
 Meu nome é Yuri,   
-Sou Desenvolvedor Front-End Jr e Estudante de Análise e Desenvolvimento de Sistemas.
+Sou Desenvolvedor Front-End e Estudante de Análise e Desenvolvimento de Sistemas.
 
 "Não devemos parar de explorar.  
 E o fim de toda nossa exploração.  
