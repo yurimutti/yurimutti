@@ -1,11 +1,7 @@
 ### Olá! 😁
 
 Meu nome é Yuri,   
-Sou Desenvolvedor Front-End e Estudante de Análise e Desenvolvimento de Sistemas.
+Sou Desenvolvedor Front-End.
+Estudante do curso de Desenvolvimento Web.
 
-"Não devemos parar de explorar.  
-E o fim de toda nossa exploração.  
-Será chegar onde começamos.  
-E conhecer o lugar pela primeira vez."  
-T. S. Elliot
-
+www.yurimutti.com
