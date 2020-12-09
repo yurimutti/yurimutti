@@ -1,6 +1,6 @@
 ### Olá! 😁
 
 Meu nome é Yuri,   
-Sou Desenvolvedor Front-End e Estudante do Curso de Desenvolvimento Web.
+Sou Desenvolvedor Front-End e Estudante de Análise e Desenvolvimento de Sistemas.
 
 www.yurimutti.com
