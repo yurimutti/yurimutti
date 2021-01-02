@@ -11,3 +11,6 @@
 <a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-muttiyuri@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"/></a>
 </p>
 
+**SKILLS:** HTML/CSS3, JavaScript, SASS, Responsive Web Design, Bootstrap, Wordpress, UI Design  
+**TOOLS:** Figma, Adobe XD, Photoshop, Illustrator  
+
