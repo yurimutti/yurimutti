@@ -26,7 +26,7 @@
         <span>CSS3</span>
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png">
+        <img height="64px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
         <br>
         <span>JavaScript</span>
       </td>
