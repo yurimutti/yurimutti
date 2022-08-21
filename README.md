@@ -2,7 +2,7 @@ Olá, eu sou o Yuri
 
 Eu sou um desenvolvedor Front End morando em Lauro de Freitas. Estou interessado em novas tecnologias de JavaScript, CSS e em engenharia.
 
-Atualmente trabalho na [Quero Delivery](https://querodelivery.com) como Desenvolvedor Front End.
+Atualmente trabalho na [Quero Delivery](https://querodelivery.com).
 
 O que eu não sei, eu aprendo rápido!
 
