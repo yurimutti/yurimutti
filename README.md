@@ -1,7 +1,7 @@
 Olá, eu sou o Yuri
 
 Desenvolvedor Front End que vive e trabalha remoto em Lauro de Freitas. 
-Estou interessado em novas tecnologias de JavaScript, CSS e em Engenharia.
+Estou interessado em novas tecnologias de JavaScript, CSS e em engenharia.
 
 Atualmente trabalho na [Quero Delivery](https://querodelivery.com).
 
