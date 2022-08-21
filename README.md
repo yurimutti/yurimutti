@@ -1,13 +1,14 @@
 Olá, eu sou o Yuri
 
-Eu sou um desenvolvedor Front End morando em Lauro de Freitas. 
-Estou interessado em novas tecnologias de JavaScript, CSS e em engenharia.
+Desenvolvedor Front End que vive e trabalha remoto em Lauro de Freitas. 
+Estou interessado em novas tecnologias de JavaScript, CSS e em Engenharia.
 
 Atualmente trabalho na [Quero Delivery](https://querodelivery.com).
 
+Você pode me encontrar em:
+
 [Meu site pessoal](https://yurimutti.com) <br />
-[@Yuri_Mutti no Twitter](https://twitter.com/Yuri_Mutti)
+[Linkedin](https://www.linkedin.com/in/yuri-mutti-0418bb1aa) <br />
+[@Yuri_Mutti no Twitter](https://twitter.com/Yuri_Mutti) <br />
 
 :love_you_gesture:
-
-
