@@ -1,7 +1,7 @@
 Olá, eu sou o Yuri
 
 Brasileiro, soteropolitano e Engenheiro de Software. Apaixonado por aprender, criar e compartilhar. 
-interessado em novas tecnologias de JavaScript, CSS e em Engenharia.
+Interessado em novas tecnologias de JavaScript, CSS e em Engenharia.
 
 Atualmente trabalho na [Quero Delivery](https://querodelivery.com).
 
