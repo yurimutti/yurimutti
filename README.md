@@ -3,8 +3,6 @@ Olá, eu sou o Yuri
 Brasileiro, soteropolitano, engenheiro de software, apaixonado por aprender, criar e compartilhar. 
 Interessado em novas tecnologias de JavaScript, CSS e engenharia.
 
-Atualmente trabalho na [Quero Delivery](https://querodelivery.com).
-
 Você pode me encontrar em:
 
 [Meu site pessoal](https://yurimutti.com) <br />
