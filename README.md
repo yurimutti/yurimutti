@@ -1,11 +1,11 @@
-Olá, eu sou o Yuri
+From Salvador, Brazil. A software engineer passionate about learning, creating and sharing things.
+I'm interested in engineering technologies such as JavaScript and CSS.
 
-Brasileiro, soteropolitano, engenheiro de software, apaixonado por aprender, criar e compartilhar. 
-Interessado em novas tecnologias de JavaScript, CSS e engenharia.
+I look for forward to work in challenging projects and I also love collaborating with the community. UI and UX are also one of my passions, I'm always in search of more knowledge and growth.
 
-Você pode me encontrar em:
+You can find me at:
 
-[Meu site pessoal](https://yurimutti.com) <br />
+[Personal Website](https://yurimutti.com) <br />
 [Linkedin](https://www.linkedin.com/in/yuri-mutti-0418bb1aa) <br />
 [@Yuri_Mutti no Twitter](https://twitter.com/Yuri_Mutti) <br />
 
