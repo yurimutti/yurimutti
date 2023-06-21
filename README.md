@@ -1,4 +1,4 @@
-From Salvador, Brazil. A software engineer passionate about learning, creating and sharing things.
+From Salvador, Brazil. A software engineer, certified in system analysis, passionate about learning, creating and sharing things. 
 I'm interested in engineering technologies such as JavaScript and CSS.
 
 I look for forward to work in challenging projects and I also love collaborating with the community.I'm always in search of more knowledge and growth.
