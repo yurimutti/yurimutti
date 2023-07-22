@@ -1,5 +1,5 @@
-From Salvador, Brazil. A software engineer, certified in system analysis, passionate about learning, creating and sharing things. 
-I'm interested in engineering technologies such as JavaScript and CSS.
+I am a software engineer, certified in system analysis, passionate about learning, creating and sharing things. 
+I have a Bachelor's degree in Computer Systems Analysis from Unijorge.
 
 I look for forward to work in challenging projects and I also love collaborating with the community.I'm always in search of more knowledge and growth.
 
