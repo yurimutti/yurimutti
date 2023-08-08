@@ -1,8 +1,6 @@
-I am a Senior Frontend Engineer, passionate about learning, creating and sharing things. 
-I have a Bachelor's degree in Computer Systems Analysis from Unijorge.
+I am a Frontend Developer, passionate about learning, creating, and sharing things. I have a Bachelor's degree in Computer Systems Analysis from Unijorge.
 
-I look for forward to work in challenging projects and I also love collaborating with the community.I'm always in search of more knowledge and growth.
-
+I look forward to working on challenging projects and love collaborating with the community. I'm always in search of more knowledge and growth.
 You can find me at:
 
 [Personal Website](https://yurimutti.com) <br />
