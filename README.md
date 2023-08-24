@@ -1,4 +1,4 @@
-I am a Frontend Developer, passionate about learning, creating, and sharing things.
+I am a Software Engineer, passionate about learning, creating, and sharing things.
 
 I look forward to working on challenging projects and love collaborating with the community. I'm always in search of more knowledge and growth.
 You can find me at:
