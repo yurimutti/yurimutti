@@ -1,4 +1,4 @@
-I am a Frontend Engineer, open source contributor, passionate about learning, creating, and sharing things.
+I am a Frontend Engineer, passionate about learning, creating, and sharing things.
 I look forward to working on challenging projects and love collaborating with the community. Likewise, I'm always in search of more knowledge and growth.
 
 You can find me at:
