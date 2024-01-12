@@ -1,5 +1,6 @@
-Senior Front End Engineer with strong proficiency in modern frontend technologies such as CSS3, TypeScript, and frameworks/libraries like React and Next.js. 
-Experienced in various startups, agencies and technology companies. Passionate about contributing to open source and share knowledge.
+Hi, I'm Yuri.
+
+Senior Front End Engineer with strong proficiency in modern frontend technologies such as JavaScript, React, Next.js, Node.js, Express and TypeScript. Experienced in various startups, agencies and technology companies. Passionate about contributing to open source and share knowledge.
 
 You can find me at:
 
